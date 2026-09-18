@@ -1,0 +1,2 @@
+# stackbridgefix
+修复落幕曲整合包中因递归伤害事件链导致的 StackOverflowError 崩溃
